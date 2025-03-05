@@ -16,8 +16,8 @@ sub.addEventListener('click',function(){
 });
 
 $(document).ready(function(){
-	$('.bxslider').bxSlider({
-	  mode: 'fade'
-	});
+  $('.bxslider').bxSlider({
+	mode: 'fade'
+  });
 });
 
