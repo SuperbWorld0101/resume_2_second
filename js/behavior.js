@@ -15,5 +15,9 @@ sub.addEventListener('click',function(){
   alert("Thank you again!");
 });
 
-
+$(document).ready(function(){
+	$('.bxslider').bxSlider({
+	  mode: 'fade'
+	});
+});
 
